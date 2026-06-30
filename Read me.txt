@@ -2,7 +2,6 @@
 
 # 2. python hcas_leader.py enroll --gcs-host <laptop-ip> --gcs-port 9000
 
-
 # 3. python hcas_follower.py enroll --gcs-host <laptop-ip> --gcs-port 9000
 
 # 4. python hcas_leader.py run --listen-host 0.0.0.0 --listen-port 9100
